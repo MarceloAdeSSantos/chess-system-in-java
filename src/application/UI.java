@@ -115,7 +115,7 @@ public class UI {
 		System.out.print(ANSI_BLUE);
 		System.out.println(Arrays.toString(blue.toArray()));
 		System.out.print(ANSI_RESET);
-		System.out.print("Red: ");
+		System.out.print("Red:  ");
 		System.out.print(ANSI_PURPLE);
 		System.out.println(Arrays.toString(red.toArray()));
 		System.out.print(ANSI_RESET);
